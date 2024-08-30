@@ -26,7 +26,7 @@
 		"@headlessui/react": "^1.7.19",
 		"@motionone/utils": "^10.18.0",
 		"@mui/icons-material": "^5.15.17",
-		"@mui/joy": "5.0.0-beta.32",
+		"@mui/joy": "5.0.0-beta.48",
 		"@mui/material": "^5.15.17",
 		"@mui/x-charts": "^6.19.8",
 		"@mui/x-data-grid": "^7.4.0",
